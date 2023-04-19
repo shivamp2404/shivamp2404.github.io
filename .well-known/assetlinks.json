@@ -1,1 +1,9 @@
-[]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.urbanclap.urbanclap",
+    "sha256_cert_fingerprints":
+    ["62:A2:4D:CA:43:0E:69:BB:B5:8F:8A:08:4F:3A:E7:78:00:80:7C:9C:11:A5:30:41:67:CA:61:A4:D8:BD:F7:68"]
+  }
+}]
