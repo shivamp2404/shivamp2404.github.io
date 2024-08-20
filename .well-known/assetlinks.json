@@ -4,6 +4,7 @@
     "namespace": "android_app",
     "package_name": "com.urbanclap.urbanclap",
     "sha256_cert_fingerprints":
-    ["62:A2:4D:CA:43:0E:69:BB:B5:8F:8A:08:4F:3A:E7:78:00:80:7C:9C:11:A5:30:41:67:CA:61:A4:D8:BD:F7:68"]
+    ["62:A2:4D:CA:43:0E:69:BB:B5:8F:8A:08:4F:3A:E7:78:00:80:7C:9C:11:A5:30:41:67:CA:61:A4:D8:BD:F7:68",
+    "6E:D2:37:F7:46:A3:1E:67:51:FB:CC:91:61:72:BB:AA:50:5E:06:03:F1:18:FC:B4:98:E2:B8:68:32:47:0B:1"]
   }
 }]
